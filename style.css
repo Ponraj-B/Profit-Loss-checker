@@ -1,0 +1,67 @@
+#side_panel
+{
+    width: 280px;
+}
+
+#home
+{
+    background-color: aliceblue;
+    display: flex;
+}
+
+#hotel_name h1
+{
+    text-align: center;
+}
+
+#bill
+{
+    background-color: aliceblue;
+}
+
+form
+{
+    align-items: center;
+    height: 100px;
+    width: 500px;
+    margin-left: 240px;
+}
+
+input 
+{
+    margin-left: 70px;
+}
+
+#emp_id
+{
+    margin-left: 28px;
+}
+
+#submit
+{
+    margin-left: 100px;
+}
+
+
+
+#timeDisplay
+{
+    margin-left: 0px;
+}
+
+label
+{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#hotel_name
+{
+    color: black;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+#time
+{
+    background-color: aliceblue;
+    padding-left: 200px;
+}
